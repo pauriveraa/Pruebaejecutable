@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/1.png</file>
+        <file>imagenes/1vs1.PNG</file>
+        <file>imagenes/2.png</file>
+        <file>imagenes/art.png</file>
+        <file>imagenes/b.PNG</file>
+        <file>imagenes/boladefuego.png</file>
+        <file>imagenes/c.PNG</file>
+        <file>imagenes/exit.PNG</file>
+        <file>imagenes/load.PNG</file>
+        <file>imagenes/Mesadetrabajo 4.png</file>
+        <file>imagenes/Nave.png</file>
+        <file>imagenes/save.PNG</file>
+        <file>imagenes/shoot.PNG</file>
+        <file>imagenes/signin.png</file>
+        <file>imagenes/start.PNG</file>
+        <file>imagenes/atrasestese.png</file>
+        <file>imagenes/instrucciones.jpeg</file>
+        <file>imagenes/INSTRUCCIONES.PNG</file>
+        <file>imagenes/logoard.png</file>
+        <file>imagenes/mutear.PNG</file>
+        <file>imagenes/play.jpg</file>
+        <file>imagenes/play2.jpg</file>
+    </qresource>
+</RCC>
